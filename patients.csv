@@ -1,0 +1,9 @@
+PatientID,Age,Sex,BloodPressure,Cholesterol,Diagnosis
+P001,25,Male,120,180,Healthy
+P002,52,Female,145,240,At Risk
+P003,38,Male,130,210,Healthy
+P004,67,Female,160,260,At Risk
+P005,45,Male,125,195,Healthy
+P006,30,Female,118,175,Healthy
+P007,59,Male,150,245,At Risk
+P008,41,Female,135,220,At Risk
